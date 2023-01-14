@@ -1,0 +1,32 @@
+body{
+    background-color:#FAECD6;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.container{
+    position:relative;
+    color:#4E6C50;
+    font-size:2vh;
+    text-align:center;
+}
+.content{
+    color:#4E6C50;
+    position:relative;
+    text-align:center;
+    font-size:4vh;
+    
+}
+.home-btn a{
+    text-decoration:none;
+    color:#4E6C50;
+    font-size:2vh;
+    position:relative;
+    top:2vh;
+    left:4vh;
+    font-weight: bold;
+
+}
+.home-btn a:hover{
+    background-color:#FAECD6;
+    font-weight: bold;
+}
+
